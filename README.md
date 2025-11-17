@@ -33,4 +33,10 @@ This dataset is a collection of restaurant transaction records. It contains deta
 
 This live visualization displays the data from the 'Where's Schueller?' homework, showing the temporal and spatial patterns of the geolocation data.
 
+<iframe src="wheres_schueller1.html" width="100%" height="500" style="border:none;"></iframe>
+
+## Above & Beyond
+
+Tried to embed the animated graph from "Where's Schueller?" homework to github.
+
 <iframe src="above&beyond.html" width="100%" height="500" style="border:none;"></iframe>
