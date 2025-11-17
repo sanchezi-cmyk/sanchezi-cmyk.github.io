@@ -31,3 +31,6 @@ This dataset is a collection of restaurant transaction records. It contains deta
 
 ## Where's Schueller?
 
+This live visualization displays the data from the 'Where's Schueller?' exercise, showing the temporal and spatial patterns of the geolocation data.
+
+<iframe src="wheres_schueller.html" width="100%" height="500" style="border:none;"></iframe>
