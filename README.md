@@ -43,4 +43,5 @@ Tried to embed the animated graph from "Where's Schueller?" homework to github.
 
 ## Final Project Data Science
 
-Here is my Final Project for my [Data Science class.](https://sanchezi-cmyk.github.io/Crime_Analysis_Chicago/).
+This project examines the evolution of crime in Chicago over the past two decades. We utilize heatmaps and time-series data to visualize changing neighborhood hotspots and fluctuations in crime types from 2001 to the present.  
+Here is my [Crime Analysis Project.](https://sanchezi-cmyk.github.io/Crime_Analysis_Chicago/).  
