@@ -40,3 +40,7 @@ This live visualization displays the data from the 'Where's Schueller?' homework
 Tried to embed the animated graph from "Where's Schueller?" homework to github.
 
 <iframe src="above&beyond.html" width="100%" height="500" style="border:none;"></iframe>
+
+## Final Project Data Science
+
+Here is my Final Project for my classes of [Data Science](https://sanchezi-cmyk.github.io/Crime_Analysis_Chicago/).
