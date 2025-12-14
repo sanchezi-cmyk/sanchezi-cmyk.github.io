@@ -43,4 +43,4 @@ Tried to embed the animated graph from "Where's Schueller?" homework to github.
 
 ## Final Project Data Science
 
-Here is my Final Project for my classes of [Data Science](https://sanchezi-cmyk.github.io/Crime_Analysis_Chicago/).
+Here is my Final Project for my [Data Science class.](https://sanchezi-cmyk.github.io/Crime_Analysis_Chicago/).
